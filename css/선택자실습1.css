@@ -1,0 +1,21 @@
+.color {
+    border: 3px solid red;
+    
+}
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.hash >ul>li{
+    background-color: blue;
+    color: white;
+    border-radius: 20px;
+    padding: 5px 10px;
+    margin: 0px 10px;
+    float: right;
+}
+

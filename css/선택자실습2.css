@@ -1,0 +1,12 @@
+.notic > p::after {
+    content: 'N';
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-color: orange;
+    text-align: center;
+    color: white;
+    border-radius: 50%;
+    padding: 1px;
+    font-weight: bold;
+}

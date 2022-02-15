@@ -1,0 +1,11 @@
+h1 {font-family: fantasy;}
+
+.div {width: 50%; border: 3px solid olive; background-color: rgb(253, 253, 196);}
+
+ul {list-style-type: circle; width: 50%; border: 3px solid olive; background-color: rgb(253, 253, 196);}
+
+.link:link, .link:visited {color: black; font-weight: bold; text-decoration: none;}
+
+.link:hover {color: black; text-shadow: 1px 2px 2px gray; font-style: italic;}
+
+span {color: green; font-family: '궁서'; text-decoration: red wavy underline;}
